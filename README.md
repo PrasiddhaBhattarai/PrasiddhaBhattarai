@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/-C-000?logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?logo=C++)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![JAVA](https://img.shields.io/badge/-JAVA-000?logo=JAVA)
+
 
 ### Technologies & Frameworks
 
