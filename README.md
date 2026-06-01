@@ -53,9 +53,15 @@
 
 ## 🏅 Certifications
 
-[![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-FF9900?logo=amazon-web-services&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/8525e6075ff640a7b3a040948f087b8c)
+<!-- [![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-FF9900?logo=amazon-web-services&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/8525e6075ff640a7b3a040948f087b8c) -->
 
-**AWS Certified Solutions Architect – Associate** · Amazon Web Services · 2026
+<!-- **AWS Certified Solutions Architect – Associate** · Amazon Web Services · 2026 -->
+
+<a href="https://www.credly.com/badges/1637f74b-98b2-4152-a1d3-bff5939892a8/public_url">
+  <img src="assests/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" width="170">
+</a>
+
+<br>
 
 ---
 
