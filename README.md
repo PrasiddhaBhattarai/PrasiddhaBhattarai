@@ -57,7 +57,7 @@
 
 <!-- **AWS Certified Solutions Architect – Associate** · Amazon Web Services · 2026 -->
 
-<a href="https://www.credly.com/badges/1637f74b-98b2-4152-a1d3-bff5939892a8/public_url">
+<a href="https://www.credly.com/badges/1637f74b-98b2-4152-a1d3-bff5939892a8/public_url" target="_blank">
   <img src="assests/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" width="170">
 </a>
 
