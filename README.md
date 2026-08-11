@@ -1,6 +1,6 @@
 # Hey, I'm Prasiddha Bhattarai 👋
 
-**AWS Certified Solutions Architect** · DevOps & Cloud Engineer · BSc CSIT Graduate
+**AWS Certified Solutions Architect** · Software Developer · DevOps · BSc CSIT Graduate
 
 > *"Automate everything. Monitor everything. Ship confidently."*
 
